@@ -1,0 +1,8 @@
+[package]
+name = "day_16"
+version = "0.1.0"
+authors = ["Samir Halilcevic <samir.halilcevic@fet.com>"]
+edition = "2018"
+
+[dependencies]
+serde_json = "1.0.38"
